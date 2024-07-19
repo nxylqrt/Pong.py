@@ -1,0 +1,5 @@
+Joueur 1 déplacements : Q/S
+Joueur 2 déplacements: Fleche Bas/Fleche Droite
+Appuyez sur Espace pour mettre pause.
+
+(Ce programme fonctionne avec le module Pyxel, installé sur l'ide Spyder)
