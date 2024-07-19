@@ -1,1 +1,1 @@
-Ce programme est un projet personnel hors programme que j'ai mis en place afin de me familiariser avec le module Pyxel.
+Ce programme est un projet personnel hors programme que j'ai mis en place afin de me familiariser avec le module Pyxel. Pour fonctionner, il faudra le lancer avec une IDE qui inclut ce module (Spyder ou Edupyther), ou l'installer manuellement sur VS code. 
